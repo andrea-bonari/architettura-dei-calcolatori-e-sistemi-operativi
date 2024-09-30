@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1495bc559de4acbb",
+        "id": "6dca4bf08164429f",
         "type": "tabs",
         "children": [
           {
-            "id": "a79d33cb519f7627",
+            "id": "b8557553d5da51fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Architettura dei calcolatori/Linguaggio Assembly.md"
               }
             }
           }
@@ -149,10 +149,17 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a79d33cb519f7627",
+  "active": "b8557553d5da51fb",
   "lastOpenFiles": [
-    "Introduzione al corso.md",
+    "Architettura dei calcolatori/Linguaggio Assembly.md",
     "index.md",
+    "data/Pasted image 20240918094131.png",
+    "temp/2024-09-17.md",
+    "Architettura dei calcolatori/Architettura dei calcolatori.md",
+    "data/Pasted image 20240917102401.png",
+    "data/Pasted image 20240917093724.png",
+    "Architettura dei calcolatori",
+    "Introduzione al corso.md",
     "Equazioni differenziali/Equazioni differenziali ordinarie.md",
     "temp/2024-09-16.md",
     "Untitled.md",
@@ -175,10 +182,6 @@
     "Elettrostatica/Principio di conservazione della carica.md",
     "Componenti dinamici/Componenti dinamici.md",
     "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "Bipoli compositi/Collegamento di doppi bipoli.md",
-    "Bipoli compositi/Doppi bipoli lineari affini.md",
-    "Bipoli compositi/Doppi bipoli.md",
-    "Bipoli compositi/Trasferitore ideale di potenza.md",
     "data/Pasted image 20240902165354.png",
     "data/Pasted image 20240902165330.png",
     "data/Pasted image 20240902165224.png",
@@ -187,15 +190,11 @@
     "data/Pasted image 20240902164742.png",
     "data/Pasted image 20240902164403.png",
     "data/Pasted image 20240902164322.png",
-    "data/Pasted image 20240902164157.png",
-    "data/Pasted image 20240902163846.png",
-    "data/Pasted image 20240902163313.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
     "Elettrostatica",
-    "old",
-    "old/data"
+    "old"
   ]
 }

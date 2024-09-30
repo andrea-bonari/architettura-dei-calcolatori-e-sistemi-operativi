@@ -9,7 +9,7 @@
     "inlineHTML": false,
     "exportPath": "/output",
     "filesToExport": [
-      "Equazioni differenziali",
+      "Architettura dei calcolatori",
       "index.md",
       "Introduzione al corso.md"
     ],
@@ -168,7 +168,7 @@
     "flattenExportPaths": false,
     "fixLinks": true,
     "siteURL": "",
-    "siteName": "Analisi matematica 2",
+    "siteName": "Architettura dei calcolatori e sistemi operativi",
     "faviconPath": "",
     "customHeadPath": "",
     "iconEmojiStyle": "Native",
