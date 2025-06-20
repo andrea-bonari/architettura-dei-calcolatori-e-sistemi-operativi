@@ -3,3 +3,5 @@ Il corso di Architettura dei Calcolatori e Sistemi Operativi si divide in due pa
 1. [[Introduzione al corso]]
 2. [[Architettura dei calcolatori]]
 	1. [[Linguaggio Assembly]]
+	2. [[Istruzioni RISC-V]]
+	3. [[Conversione da C ad Assembly]]

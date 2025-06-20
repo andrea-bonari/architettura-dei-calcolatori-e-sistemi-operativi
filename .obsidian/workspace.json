@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6dca4bf08164429f",
+        "id": "891c02dfcd0f0ea6",
         "type": "tabs",
         "children": [
           {
-            "id": "b8557553d5da51fb",
+            "id": "b2a35893c5be654d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
+                "file": "Architettura dei calcolatori/Assembly/Istruzioni RISC-V.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Istruzioni RISC-V"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
+                "file": "Introduzione al corso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduzione al corso"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura dei calcolatori/Linguaggio Assembly.md",
+                "file": "Introduzione al corso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduzione al corso"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura dei calcolatori/Linguaggio Assembly.md"
-              }
+                "file": "Introduzione al corso.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduzione al corso"
             }
           }
         ]
@@ -149,20 +171,30 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b8557553d5da51fb",
+  "active": "b2a35893c5be654d",
   "lastOpenFiles": [
-    "Architettura dei calcolatori/Linguaggio Assembly.md",
+    "Architettura dei calcolatori/Assembly/Conversione da C ad Assembly.md",
+    "data/Pasted image 20250620213643.png",
+    "data/Pasted image 20250620180206.png",
     "index.md",
-    "data/Pasted image 20240918094131.png",
-    "temp/2024-09-17.md",
+    "Untitled.md",
+    "Architettura dei calcolatori/Assembly/Istruzioni RISC-V.md",
+    "Architettura dei calcolatori/Assembly/Linguaggio Assembly.md",
+    "data/Pasted image 20250620164229.png",
+    "data/Pasted image 20250620163204.png",
+    "data/Pasted image 20250620144332.png",
+    "data/Pasted image 20250620144239.png",
     "Architettura dei calcolatori/Architettura dei calcolatori.md",
+    "data/Pasted image 20240918094131.png",
+    "data/Pasted image 20250620115007.png",
+    "data/Pasted image 20250619190254.png",
     "data/Pasted image 20240917102401.png",
-    "data/Pasted image 20240917093724.png",
-    "Architettura dei calcolatori",
+    "Architettura dei calcolatori/Assembly",
     "Introduzione al corso.md",
+    "temp/2024-09-17.md",
+    "Architettura dei calcolatori",
     "Equazioni differenziali/Equazioni differenziali ordinarie.md",
     "temp/2024-09-16.md",
-    "Untitled.md",
     "Equazioni differenziali",
     "temp",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
@@ -180,21 +212,11 @@
     "Elettrostatica/Flusso di un campo vettoriale.md",
     "Elettrostatica/Potenziale e tensione elettrica.md",
     "Elettrostatica/Principio di conservazione della carica.md",
-    "Componenti dinamici/Componenti dinamici.md",
-    "Bipoli compositi/Amplificatore operazionale ideale.md",
-    "data/Pasted image 20240902165354.png",
-    "data/Pasted image 20240902165330.png",
-    "data/Pasted image 20240902165224.png",
-    "data/Pasted image 20240902165202.png",
     "Componenti dinamici",
-    "data/Pasted image 20240902164742.png",
-    "data/Pasted image 20240902164403.png",
-    "data/Pasted image 20240902164322.png",
     "Bipoli compositi",
     "Teoria dei circuiti/Bipoli",
     "Teoria dei circuiti",
     "data",
-    "Elettrostatica",
-    "old"
+    "Elettrostatica"
   ]
 }
