@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architettura dei calcolatori/Architettura del processore/Pipelining nel processore RISC-V.md",
+                "file": "Architettura dei calcolatori/Architettura RISC-V/Architettura RISC-V.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipelining nel processore RISC-V"
+              "title": "Architettura RISC-V"
             }
           }
         ]
@@ -173,8 +173,24 @@
   },
   "active": "b2a35893c5be654d",
   "lastOpenFiles": [
+    "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria/Gerarchia della memoria.md",
+    "Architettura dei calcolatori/Reti logiche/Blocchi sequenziali.md",
+    "Architettura dei calcolatori/Reti logiche/Circuiti combinatori.md",
+    "Architettura dei calcolatori/Assembly/Processo di compilazione.md",
+    "Architettura dei calcolatori/Assembly/Istruzioni RISC-V.md",
+    "Architettura dei calcolatori/Architettura RISC-V/Prestazioni dell'architettura RISC-V.md",
+    "Architettura dei calcolatori/Architettura RISC-V/BUS del calcolatore.md",
     "index.md",
-    "Architettura dei calcolatori/Architettura del processore/Pipelining nel processore RISC-V.md",
+    "Architettura dei calcolatori/Architettura RISC-V/Input e Output a livello hardware.md",
+    "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria/Memoria virtuale.md",
+    "Architettura dei calcolatori/Architettura RISC-V/Pipelining nel processore RISC-V.md",
+    "Sistemi operativi",
+    "Architettura dei calcolatori/Architettura RISC-V/Architettura RISC-V.md",
+    "data/Pasted image 20250624133037.png",
+    "data/Pasted image 20250624131647.png",
+    "Architettura dei calcolatori/Architettura dei calcolatori.md",
+    "data/Pasted image 20250624113821.png",
+    "Architettura dei calcolatori/Architettura della memoria/Untitled",
     "data/Pasted image 20250623211155.png",
     "data/Pasted image 20250623205325.png",
     "data/Pasted image 20250623205224.png",
@@ -183,27 +199,17 @@
     "data/Pasted image 20250623132828.png",
     "data/Pasted image 20250623132621.png",
     "data/Pasted image 20250623132344.png",
-    "data/Pasted image 20250623132213.png",
-    "Architettura dei calcolatori/Architettura del processore/Processore RISC-V.md",
-    "data/Pasted image 20250623130245.png",
-    "data/Pasted image 20250623130107.png",
     "Introduzione al corso.md",
-    "Architettura dei calcolatori/Architettura della memoria",
-    "Architettura dei calcolatori/Architettura del processore",
+    "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria",
+    "Architettura dei calcolatori/Architettura RISC-V",
     "Architettura dei calcolatori/Reti logiche/Memoria.md",
-    "Architettura dei calcolatori/Reti logiche/Blocchi sequenziali.md",
     "Architettura dei calcolatori/Reti logiche/Blocchi combinatori.md",
     "Architettura dei calcolatori/Reti logiche/Circuiti sequenziali.md",
-    "Architettura dei calcolatori/Reti logiche/Circuiti combinatori.md",
     "Architettura dei calcolatori/Reti logiche/Reti logiche.md",
     "Architettura dei calcolatori/Reti logiche",
-    "Untitled",
-    "Architettura dei calcolatori/Assembly/Processo di compilazione.md",
-    "Architettura dei calcolatori/Assembly/Istruzioni RISC-V.md",
     "Architettura dei calcolatori/Assembly/Conversione da C ad Assembly.md",
     "Untitled.md",
     "Architettura dei calcolatori/Assembly/Linguaggio Assembly.md",
-    "Architettura dei calcolatori/Architettura dei calcolatori.md",
     "Architettura dei calcolatori/Assembly",
     "temp/2024-09-17.md",
     "Architettura dei calcolatori",
@@ -212,11 +218,6 @@
     "Equazioni differenziali",
     "temp",
     "Teoria dei circuiti/Bipoli/Connessione di bipoli.md",
-    "Teoria dei circuiti/Circuiti equivalenti di Thevenin e Norton.md",
-    "Teoria dei circuiti/Generatori pilotati.md",
-    "Teoria dei circuiti/Metodo delle prove semplici.md",
-    "Teoria dei circuiti/N-poli.md",
-    "Componenti dinamici",
-    "Bipoli compositi"
+    "Componenti dinamici"
   ]
 }
