@@ -10,6 +10,7 @@
     "exportPath": "/output",
     "filesToExport": [
       "Architettura dei calcolatori",
+      "Sistemi operativi",
       "index.md",
       "Introduzione al corso.md"
     ],

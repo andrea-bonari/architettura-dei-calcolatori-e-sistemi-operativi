@@ -60,7 +60,7 @@ Definiamo il tempo medio di accesso alla memoria come: $$\text{AMAT}=\text{Hit T
 >I rimanenti $2^{n-m-k}$ sono i bit di etichetta, utilizzati per identificare il blocco effettivamente caricato in cache.
 >
 >Ogni posizione della cache quindi include:
->-`valid` bit, che indica se questa posizione contiene o meno dati validi.
+>- `valid` bit, che indica se questa posizione contiene o meno dati validi.
 >- Campo etichetta, che contiene il valore che identifica univocamente l'indirizzo di memoria corrispondente ai dati memorizzati
 >- Campo dati, che contiene una copia dei dati.
 >
