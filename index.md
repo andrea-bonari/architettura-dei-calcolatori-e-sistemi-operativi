@@ -25,7 +25,7 @@ Il corso di Architettura dei Calcolatori e Sistemi Operativi si divide in due pa
 		2. [[Programmazione concorrente]]
 	2. [[Linux]]
 		1. [[Meccanismi hardware]]
-		2. [[Gestione dello stato dei processi]]
+		2. [[Stato dei processi]]
 		3. [[Servizi di sistema]]
 		4. [[Scheduler]]
 	3. [[Sistemi operativi/Gestione della memoria/Memoria virtuale|Memoria virtuale]]

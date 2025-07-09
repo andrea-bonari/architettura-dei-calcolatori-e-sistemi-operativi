@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
+                "file": "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meccanismi hardware"
+              "title": "Stato dei processi"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "principio di equivalenza",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +173,12 @@
   },
   "active": "b2a35893c5be654d",
   "lastOpenFiles": [
-    "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
+    "data/Pasted image 20250710003910.png",
     "index.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
+    "Architettura dei calcolatori/Assembly/Conversione da C ad Assembly.md",
     "Sistemi operativi/File system/File system.md",
     "Sistemi operativi/File system",
     "Sistemi operativi/Gestione della memoria/Memoria del sistema operativo.md",
@@ -183,8 +187,6 @@
     "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Untitled.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Gestione dello stato dei processi.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
     "Sistemi operativi/Funzionamento del sistema operativo",
     "Sistemi operativi/Gestione della memoria",
     "Sistemi operativi/Programmazione di sistema/Programmazione concorrente.md",
@@ -201,8 +203,6 @@
     "Architettura dei calcolatori/Reti logiche/Blocchi sequenziali.md",
     "Architettura dei calcolatori/Reti logiche/Circuiti sequenziali.md",
     "Architettura dei calcolatori/Reti logiche/Blocchi combinatori.md",
-    "Architettura dei calcolatori/Reti logiche/Circuiti combinatori.md",
-    "Architettura dei calcolatori/Reti logiche/Reti logiche.md",
     "Sistemi operativi",
     "data/Pasted image 20250624133037.png",
     "data/Pasted image 20250624131647.png",
