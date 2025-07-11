@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "891c02dfcd0f0ea6",
+        "id": "05708659bf427334",
         "type": "tabs",
         "children": [
           {
-            "id": "b2a35893c5be654d",
+            "id": "423a241e54b0fc94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
+                "file": "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stato dei processi"
+              "title": "Servizi di sistema"
             }
           }
         ]
@@ -171,31 +171,31 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b2a35893c5be654d",
+  "active": "423a241e54b0fc94",
   "lastOpenFiles": [
-    "data/Pasted image 20250710003910.png",
-    "index.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
+    "Sistemi operativi/Sistema operativo.md",
+    "Introduzione al corso.md",
+    "index.md",
+    "Sistemi operativi/Gestione della memoria/Memoria del sistema operativo.md",
+    "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria/Memoria virtuale.md",
+    "data/Pasted image 20250710003910.png",
     "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
     "Architettura dei calcolatori/Assembly/Conversione da C ad Assembly.md",
     "Sistemi operativi/File system/File system.md",
     "Sistemi operativi/File system",
-    "Sistemi operativi/Gestione della memoria/Memoria del sistema operativo.md",
     "Sistemi operativi/Gestione della memoria/Memoria fisica.md",
     "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Untitled.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
     "Sistemi operativi/Funzionamento del sistema operativo",
     "Sistemi operativi/Gestione della memoria",
     "Sistemi operativi/Programmazione di sistema/Programmazione concorrente.md",
     "Sistemi operativi/Programmazione di sistema/Thread.md",
     "Sistemi operativi/Programmazione di sistema/Gestione dei processi.md",
-    "Sistemi operativi/Sistema operativo.md",
     "Sistemi operativi/Programmazione di sistema",
-    "Introduzione al corso.md",
-    "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria/Memoria virtuale.md",
     "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria/Gerarchia della memoria.md",
     "Architettura dei calcolatori/Architettura RISC-V/Pipelining nel processore RISC-V.md",
     "Architettura dei calcolatori/Architettura RISC-V/Architettura RISC-V.md",
@@ -214,7 +214,6 @@
     "data/Pasted image 20250623132910.png",
     "data/Pasted image 20250623132828.png",
     "data/Pasted image 20250623132621.png",
-    "data/Pasted image 20250623132344.png",
     "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria",
     "Architettura dei calcolatori/Architettura RISC-V",
     "Architettura dei calcolatori/Reti logiche",
