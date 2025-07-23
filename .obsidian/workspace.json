@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
+                "file": "Sistemi operativi/File system/File system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memoria virtuale"
+              "title": "File system"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "servizi di sistema",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
+                "file": "Sistemi operativi/File system/File system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Memoria virtuale"
+              "title": "Backlinks for File system"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduzione al corso.md",
+                "file": "Sistemi operativi/File system/File system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduzione al corso"
+              "title": "Outgoing links from File system"
             }
           },
           {
@@ -151,11 +151,13 @@
               "title": "Outline of Introduzione al corso"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,19 +174,20 @@
   },
   "active": "b2a35893c5be654d",
   "lastOpenFiles": [
-    "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
-    "data/Pasted image 20250720122424.png",
-    "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
-    "data/Pasted image 20250710003910.png",
-    "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
+    "data/Pasted image 20250723180018.png",
     "index.md",
     "Sistemi operativi/File system/File system.md",
-    "Sistemi operativi/File system",
     "Sistemi operativi/Gestione della memoria/Memoria del sistema operativo.md",
-    "Sistemi operativi/Gestione della memoria/Memoria fisica.md",
-    "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
+    "Sistemi operativi/Gestione della memoria/Gestione della memoria virtuale.md",
+    "Sistemi operativi/Gestione della memoria/Gestione della memoria fisica.md",
+    "data/Pasted image 20250720122424.png",
+    "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
+    "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
+    "data/Pasted image 20250710003910.png",
+    "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
+    "Sistemi operativi/File system",
     "Sistemi operativi/Funzionamento del sistema operativo/Untitled.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Gestione dello stato dei processi.md",
     "Sistemi operativi/Funzionamento del sistema operativo",
