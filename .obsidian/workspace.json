@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
+                "file": "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scheduler"
+              "title": "Memoria virtuale"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
+                "file": "Sistemi operativi/Gestione della memoria/Memoria virtuale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Scheduler"
+              "title": "Backlinks for Memoria virtuale"
             }
           },
           {
@@ -172,10 +172,11 @@
   },
   "active": "b2a35893c5be654d",
   "lastOpenFiles": [
+    "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
+    "data/Pasted image 20250720122424.png",
     "Sistemi operativi/Funzionamento del sistema operativo/Servizi di sistema.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Stato dei processi.md",
     "Sistemi operativi/Funzionamento del sistema operativo/Meccanismi hardware.md",
-    "Sistemi operativi/Funzionamento del sistema operativo/Scheduler.md",
     "data/Pasted image 20250710003910.png",
     "Sistemi operativi/Funzionamento del sistema operativo/Linux.md",
     "index.md",
@@ -212,7 +213,6 @@
     "data/Pasted image 20250623205224.png",
     "data/Pasted image 20250623132910.png",
     "data/Pasted image 20250623132828.png",
-    "data/Pasted image 20250623132621.png",
     "Architettura dei calcolatori/Architettura RISC-V/Architettura della memoria",
     "Architettura dei calcolatori/Architettura RISC-V",
     "Architettura dei calcolatori/Reti logiche",
