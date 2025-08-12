@@ -43,3 +43,67 @@ Di seguito la struttura del File System Linux:
 
 ![[Pasted image 20250723180018.png]]
 
+>[!tip] Periferiche e file speciali
+>In Unix le periferiche sono viste come file speciali, simulate come file nel direttorio  `/dev`. Sulle periferiche è possibile eseguire `open`, `read`, `write`, `close`, ma non `create`.
+>
+>Ogni programma, all'esecuzione, dispone già di $3$ descrittori di file: `stdin`, `stdout` e `stderr`.
+
+### Area buffer e gestori dei dispositivi a blocchi
+> [!note]  
+> Il file system svolge le sue funzioni appoggiandosi a due componenti:
+> - l gestore dei buffer/cache che mantiene in memoria centrale (Page Cache) blocchi di file già letti dal disco per ridurre gli accessi fisici.
+> - Il gestore del disco (disk driver) che traduce le richieste logiche in operazioni fisiche ottimizzate sul dispositivo.
+> 
+> Funzionamento:
+> 
+> 1. Se il blocco richiesto è già in Page Cache, viene restituito immediatamente.
+> 2. Se non è presente, la Page Cache alloca lo spazio e richiede al gestore a blocchi di leggerlo dal dispositivo (spesso tramite DMA).
+> 3. Il driver pianifica e ottimizza l’ordine delle operazioni fisiche sul disco.
+
+> [!tip] Volumi e mount point
+> In Linux esiste un unico albero di directory con radice `/`.
+> 
+> Ogni volume (partizione formattata con un FS) è montato in un punto dell’albero (mount point).  
+
+### Virtual File System
+> [!note]
+> Il VFS fornisce un modello unificato per gestire file system diversi.
+> Mantiene:
+> - Informazioni statiche (metadati su disco) → caricate in memoria quando necessario.
+> - Informazioni dinamiche (file e directory aperti).
+> 
+> Strutture principali:
+> - `struct dentry` → rappresenta un’entry di directory.
+> - `struct inode` → rappresenta un file fisico e i suoi metadati.
+> - `struct file` → rappresenta un file aperto, con posizione corrente e contatore di riferimenti.
+
+> [!tip] Accesso ai file da parte dei processi  
+> Ogni processo possiede una tabella dei file aperti (`files_struct`) contenente un array `fd_array`.
+> - Ogni elemento di `fd_array` è un puntatore a una `struct file`.
+> - `struct file` → punta a un `dentry` → che punta a un `inode`.
+> - Più descrittori possono condividere la stessa `struct file` (quindi la stessa posizione corrente), oppure avere istanze separate ma riferirsi allo stesso `inode`.
+> - `f_count` nella tabella globale dei file indica quante aperture puntano allo stesso file.
+
+### inode e operazioni
+> [!note]
+>Ogni file ha un solo `inode` (relazione biunivoca). Contiene: dimensione, tipo, puntatori a funzioni operative (`inode_operations` per directory, `file_operations` per file) e un puntatore `i_mapping` alla struttura di mapping con la Page Cache.
+
+> [!tip] Accesso ai dati e Page Cache
+> 
+> - Le letture/scritture avvengono a livello di pagina (es. 4096 byte) anche se vengono richiesti pochi byte.
+>     
+> - Passi di una lettura:
+>     
+> 
+> 1. Calcolare il numero di pagina (FP) dalla posizione corrente.
+>     
+> 2. Cercare la pagina nella Page Cache (`address_space` → `page_tree`).
+>     
+> 3. Se assente, allocare la pagina e caricarla dal disco (`readpage`).
+>     
+> 4. Copiare i dati richiesti nello spazio utente.
+>     
+> 
+> - La stessa struttura supporta sia `read`/`write` tradizionali sia la mappatura in memoria (`mmap`).
+>     
+
